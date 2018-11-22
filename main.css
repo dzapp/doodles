@@ -1,0 +1,12 @@
+div {
+  width: 90px;
+  height: 90px;
+  border: 80px solid;
+  border-radius: 50%;
+  text-align: center;
+  margin: auto;
+  line-height: 90px;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+
